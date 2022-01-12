@@ -1,7 +1,7 @@
 /*
  * sniffer.h
  * Description: Sniffer lass prototypes for netwrok sniffing.
- *
+ * © 2015 Ryan D. Lockman All Rights Reserved
  * )))~3L1735~(((
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
